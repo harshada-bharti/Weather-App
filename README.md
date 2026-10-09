@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Weather App 🌦️
 
 A Python application that fetches real-time weather information using the OpenWeather API.
